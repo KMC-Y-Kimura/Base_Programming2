@@ -5,7 +5,7 @@
 リポジトリ構造<br>
 Base_Programming2<br>
 ├─  #5<br>
-    ┗  main.c等<br>
+    ┗main.c等<br>
 ├─  #6<br>
 .<br>
 .<br>
