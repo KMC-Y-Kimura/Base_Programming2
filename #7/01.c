@@ -17,7 +17,7 @@ int main() {
     // 3. 値を表示
     printf("配列の内容:\n");
     for (int i = 0; i < 10; i++) {
-        printf("arr[%d] = %d\n", i, arr[i]);
+        printf("arr[%d] = %d (アドレス: %p)\n", i, arr[i], (void *)&arr[i]);
     }
     
     // 4. メモリを解放
